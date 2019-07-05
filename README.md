@@ -1,13 +1,38 @@
-# helpcenter
-questions and answers for users  will be updated here
+# profiles
 
-## questions
-if you have you any questions , you can post your question or suggestions in the issues tab. we will make the response as fast as possible.
+all the profiles of cryptozoic are updated here
+
+# 1.menu
+```
+├─ profiles
+│  ├─ app	
+│  ├─ whitepaper
+│  ├─ news
+│  ├─ ppt
+│  └─ video
+```
+
+## app
+app will be updated here
+
+## whitepaper
+whitepaper will be updated here 
 
 
-## telegram group
+items | version |  updated time  
+:-: | :-: | :-: | 
+whitepaper(compressed)| V1.0.1 | 2019-6-28
 
-telegram group url is :https://t.me/joinchat/MA49fhbIHbf9xzWlKomFLw 
-everyone can join it with no request
 
+## news
+news including some other broadcastings will be updated here
 
+## video
+videos will be updated here
+
+## ppt
+ppts will be updated here
+
+items | version |  updated time  
+:-: | :-: | :-: | 
+BP | V1.0.1 | 2019-6-28
